@@ -11,6 +11,7 @@ Setup
 4. Any Daw. I use Ableton the same with the link above
 
 Basic Concept of the project
+
 We want to get the sensor value of sonar using the arduino and send it to python and use it to convert to midi and send it to ableton as inputs.
 1. Arduino prints the sensor value to serial monitor
 2. Python reads the sensor value from Serial Monitor
