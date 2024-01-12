@@ -1,6 +1,6 @@
 # arduino-python-midi_theremin
 
-##Setup
+##Setup:
 1. Arduino or anything that works similar
     - Upload the code to the arduino
 2. 2 Sonar Sensors
@@ -10,7 +10,7 @@
     - please see this for detailed instruction: https://github.com/AhmadMoussa/Python-Midi-Ableton/blob/master/Readme.md
 4. Any Daw. I use Ableton the same with the link above
 
-##Basic Concept of the project
+##Basic Concept of the project:
 *We want to get the sensor value of sonar using the arduino and send it to python and use it to convert to midi and send it to ableton as inputs.
 1. Arduino prints the sensor value to serial monitor
 2. Python reads the sensor value from Serial Monitor
