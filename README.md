@@ -16,3 +16,6 @@
 2. Python reads the sensor value from Serial Monitor
 3. Python process the sensor values and send it to virtual midi port created by loopMidi
 4. DAW, such as Ableton, receives MIDI Inputs from loopMidi's virtual midi
+
+## Python Script
+- Python Script in this project can be used for your own arduino midi project (not only for ultrasonic theremin) as long as it sends value through serial monitor 9600 (adjustable)
